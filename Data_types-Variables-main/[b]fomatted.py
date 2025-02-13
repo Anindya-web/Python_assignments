@@ -1,0 +1,6 @@
+name = input("Please enter your name: ")
+age = int(input("Please enter your age: "))
+city = input("Please enter city name: ")
+print(f'Name is',name)
+print(f'Age is',age)
+print(f'City is',city)
